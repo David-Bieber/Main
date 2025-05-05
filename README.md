@@ -9,6 +9,8 @@ cd Main
 
 -> now make your changes
 
+n/
+
 # git add .
 adds every change to the repos
 
