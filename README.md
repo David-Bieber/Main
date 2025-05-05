@@ -36,7 +36,10 @@ After your changes, use the following commands to save them in the repository
 
 # Commands
 
-### Adding changes to repos using "git add ."
+### Staging changes using "git add ."
+
+Using a dot here will result in every change you made to be forwarded. Alternatively, you can also stage single files individually (using the corresponding paths).
+
 ```
 git add .
 ```
