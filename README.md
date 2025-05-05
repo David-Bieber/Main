@@ -22,9 +22,11 @@ git clone https://github.com/David-Bieber/Main
 
 ```
 
+where "destination_path" is the path you want to clone the repository to
+
 -> now make your changes
 
-After your changes, use the following commands to save them in the repos
+After your changes, use the following commands to save them in the repository
 
 <br/>
 
