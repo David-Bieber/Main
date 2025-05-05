@@ -1,3 +1,5 @@
+# Starting
+
 To contribute to this repos, use the following commands in your cmd:
 
 
@@ -9,15 +11,15 @@ cd Main
 
 -> now make your changes
 
-n/
+# Commands
 
-# git add .
+### git add .
 adds every change to the repos
 
-# git commit "changes"
+### git commit "changes"
 make commit, give short summary of changes/news
 
 
-# git push
+### git push
 now push your commit to the hub
 
