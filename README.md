@@ -51,9 +51,10 @@ git push
 ```
 
 ### Pull changes from the hub using "git pull"
-```
+
 You're probably not the only one to make changes in the repository.
 Using pull will sync your repos with changes pushed to the hub by other people.
 
+```
 git pull
 ```
