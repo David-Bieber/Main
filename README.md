@@ -14,13 +14,16 @@ after your changes, use the following commands to save them in the repos
 
 # Commands
 
-### git add .
-adds every change to the repos
+### Adding changes to repos using "git add ."
+```
+git add .
+```
+### Commiting changes using "git commit 'changes'"
+```
+git commit "changes"
+```
 
-### git commit "changes"
-make commit, give short summary of changes/news
-
-
-### git push
-now push your commit to the hub
-
+### Push your changes to the hub using "git push"
+```
+git push
+```
