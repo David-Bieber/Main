@@ -9,11 +9,11 @@ cd Main
 
 -> now make your changes
 
-^ add every change to the repos
+** add every change to the repos **
 git add .
 
-^ make commit, give short summary of changes/news
+** make commit, give short summary of changes/news **
 git commit "changes"
 
-^ now push your commit to the hub
+** now push your commit to the hub **
 git push
