@@ -18,7 +18,7 @@ after your changes, use the following commands to save them in the repos
 ```
 git add .
 ```
-### Commiting changes using "git commit 'changes'"
+### Commiting changes using "git commit"
 ```
 git commit "changes"
 ```
