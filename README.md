@@ -11,6 +11,8 @@ cd Main
 
 -> now make your changes
 
+after your changes, use the following commands to save them in the repos
+
 # Commands
 
 ### git add .
