@@ -1,6 +1,6 @@
 # Starting
 
-To contribute to this repos, use the following commands in your cmd:
+To contribute to this repository, use the following commands in your cmd:
 
 ```
 git clone https://github.com/David-Bieber/Main
