@@ -15,9 +15,11 @@
 To contribute to this repository, use the following commands in your cmd:
 
 ```
+
+cd "destination_path"
+
 git clone https://github.com/David-Bieber/Main
 
-cd Main
 ```
 
 -> now make your changes
