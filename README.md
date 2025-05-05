@@ -2,12 +2,11 @@
 
 To contribute to this repos, use the following commands in your cmd:
 
-
-
-
+```
 git clone https://github.com/David-Bieber/Main
 
 cd Main
+```
 
 -> now make your changes
 
