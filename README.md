@@ -22,6 +22,8 @@ git clone https://github.com/David-Bieber/Main
 
 where "destination_path" is the path you want to clone the repository to
 
+<br/>
+
 # Making Changes
 
 <br/>
