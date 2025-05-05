@@ -7,6 +7,7 @@
 [VSCodium](https://github.com/VSCodium/vscodium)
 
 <br/>
+<br/>
 
 To contribute to this repository, use the following commands in your cmd:
 
