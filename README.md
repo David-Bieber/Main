@@ -6,6 +6,8 @@
 
 [VSCodium](https://github.com/VSCodium/vscodium)
 
+\
+
 To contribute to this repository, use the following commands in your cmd:
 
 ```
@@ -17,6 +19,8 @@ cd Main
 -> now make your changes
 
 After your changes, use the following commands to save them in the repos
+
+\
 
 # Commands
 
