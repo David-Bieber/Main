@@ -26,6 +26,8 @@ where "destination_path" is the path you want to clone the repository to
 
 # Making Changes
 
+<br/>
+
 __Now you're ready to make your changes in the cloned repository__
 
 After your changes, use the following commands to save them in the repository
