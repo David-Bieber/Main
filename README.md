@@ -1,6 +1,6 @@
 # Getting Started
 
-__Before you start following the instructions below, make sure you have Git (and a suitable IDE, in my Case VSCodium) installed.__
+<ins> __Before you start following the instructions below, make sure you have Git (and a suitable IDE, in my Case VSCodium) installed.__ </ins>
 
 To contribute to this repository, use the following commands in your cmd:
 
