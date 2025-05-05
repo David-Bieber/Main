@@ -1,5 +1,7 @@
 # Starting
 
+Before you start following the instructions below, make sure you have Git (and a suitable IDE, in my Case VSCodium) installed.
+
 To contribute to this repository, use the following commands in your cmd:
 
 ```
@@ -10,7 +12,7 @@ cd Main
 
 -> now make your changes
 
-after your changes, use the following commands to save them in the repos
+After your changes, use the following commands to save them in the repos
 
 # Commands
 
